@@ -1,5 +1,5 @@
 # Craft CMS Error (503) and Offline Templates
-Simple error templates for Craft CMS 3 - styled with zero dependencies.
+Simple error templates for Craft CMS 3 & 4 - styled with zero dependencies.
 
 ## Preview
 
@@ -25,4 +25,4 @@ You can simply replace the inline SVG or switch it to an image tag and use the s
 
 ### Notes
 
-These templates have only been tested with Craft 3
+These templates have only been tested with Craft CMS 3 and Craft CMS 4
